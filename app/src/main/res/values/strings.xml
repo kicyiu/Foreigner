@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Foreigner</string>
+    <string name="facebook_app_id">933630073397872</string>
+    <string name="fblogin_cancel">Login attempt canceled</string>
+    <string name="fblogin_error">Login attempt failed</string>
+    <string name="connection_error">Unable to load content. Check your network connection.</string>
+    <string name="json_error">Error decoding Json.</string>
+    <string name="no_location_detected">
+        No location detected. Make sure location is enabled on the device.
+    </string>
+    <string name="title_activity_people_detail">peopleDetail</string>
+</resources>
